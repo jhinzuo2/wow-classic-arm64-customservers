@@ -1,0 +1,3 @@
+[submodule "HermesProxy"]
+	path = HermesProxy
+	url = https://github.com/jhinzuo2/HermesProxy.git
